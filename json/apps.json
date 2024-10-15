@@ -66,7 +66,7 @@
     "name": "SingBox",
     "urlScheme": "sing-box://import-remote-profile",
     "image": "https://play-lh.googleusercontent.com/9hC1t0lYNRlFHt2N2NJCWYMe_M6vJh580XHdC0JeEW14AJJFZGDbgj_meooXAXHbWJ1_",
-    "link": "sing-box://import-remote-profile?url={url}#@Vv2shop_bot",
+    "link": "sing-box://import-remote-profile?url={url}",
     "os": ["iOS", "Android", "Linux"],
     "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
@@ -79,7 +79,7 @@
     "name": "Hiddify",
     "urlScheme": "sing-box://import-remote-profile",
     "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
-    "link": "sing-box://import-remote-profile?url={url}#@Vv2shop_bot",
+    "link": "sing-box://import-remote-profile?url={url}",
     "os": ["Windows", "Android", "Linux"],
     "downloadLinks": {
       "Windows": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Portable-x64.zip",
