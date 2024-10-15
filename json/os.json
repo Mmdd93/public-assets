@@ -21,7 +21,7 @@
           "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/telegram.png",
           "description": "contact us",
           "faDescription": "تماس با ما",
-          "configLink": "",
+          "configLink": "streisand://import/{url}",
           "downloadLink": "https://t.me/tlgrmv",
           "videoLink": "https://example.com/streisand-video"
         },
@@ -68,7 +68,7 @@
           "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/telegram.png",
           "description": "contact us",
           "faDescription": "تماس با ما",
-          "configLink": "",
+          "configLink": "streisand://import/{url}",
           "downloadLink": "https://t.me/tlgrmv",
           "videoLink": "https://example.com/streisand-video"
         },
@@ -115,7 +115,7 @@
           "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/telegram.png",
           "description": "contact us",
           "faDescription": "تماس با ما",
-          "configLink": "",
+          "configLink": "streisand://import/{url}",
           "downloadLink": "https://t.me/tlgrmv",
           "videoLink": "https://example.com/streisand-video"
         }
@@ -142,7 +142,7 @@
           "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/telegram.png",
           "description": "contact us",
           "faDescription": "تماس با ما",
-          "configLink": "",
+          "configLink": "streisand://import/{url}",
           "downloadLink": "https://t.me/tlgrmv",
           "videoLink": "https://example.com/streisand-video"
         },
