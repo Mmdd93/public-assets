@@ -14,7 +14,7 @@
     "name": "V2rayNG",
     "urlScheme": "v2rayng://install-config",
     "image": "https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30",
-    "link": "v2rayng://install-config?url={url}",
+    "link": "v2rayng://install-config?url={url}#@Vv2shop_bot",
     "os": ["Android"],
     "downloadLinks": {
       "Android": "https://github.com/2dust/v2rayNG/releases/download/1.9.6/v2rayNG_1.9.6_universal.apk"
@@ -25,7 +25,7 @@
     "name": "V2box",
     "urlScheme": "v2box://install-sub",
     "image": "https://play-lh.googleusercontent.com/kVeisXWkT4oRMDsZbFrY7XXJvnxHJ7PnQFE71XCcCWAoeOAg5G3HJRDp4Ro3Xbc3WA",
-    "link": "v2box://install-sub?url={url}&name=SUBnew",
+    "link": "v2box://install-sub?url={url}&name=@Vv2shop_bot",
     "os": ["iOS", "Android"],
     "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
@@ -67,7 +67,7 @@
     "name": "SingBox",
     "urlScheme": "sing-box://import-remote-profile",
     "image": "https://play-lh.googleusercontent.com/9hC1t0lYNRlFHt2N2NJCWYMe_M6vJh580XHdC0JeEW14AJJFZGDbgj_meooXAXHbWJ1_",
-    "link": "sing-box://import-remote-profile?url={url}#MattSub",
+    "link": "sing-box://import-remote-profile?url={url}#@Vv2shop_bot",
     "os": ["iOS", "Android", "Linux"],
     "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
@@ -80,7 +80,7 @@
     "name": "Hiddify",
     "urlScheme": "sing-box://import-remote-profile",
     "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
-    "link": "sing-box://import-remote-profile?url={url}#MattSub",
+    "link": "sing-box://import-remote-profile?url={url}#@Vv2shop_bot",
     "os": ["Windows", "Android", "Linux"],
     "downloadLinks": {
       "Windows": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Portable-x64.zip",
