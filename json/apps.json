@@ -37,12 +37,14 @@
     "name": "V2rayN",
     "urlScheme": "v2rayn://install-config",
     "image": "https://fa.v2rayn.org/wp-content/uploads/2024/01/favicon.png",
-    "link": "v2rayn://install-config?url={url}",
+    link="copy:?url={url}"
+echo "Copy this link: $link"
+,
     "os": ["Windows"],
     "downloadLinks": {
       "Windows": "https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-With-Core.zip"
     },
-    "ShowInMenu": true
+    "ShowInMenu": false
   },
   {
     "name": "Shadowrocket",
