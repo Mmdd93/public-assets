@@ -31,7 +31,7 @@
           "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/v2box.png",
           "description": "A cross-platform V2Ray client.",
           "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
-          "configLink": "v2box://install-sub?url={url}&name=SUBnew",
+          "configLink": "v2box://install-sub&name=SUBnew",
           "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
           "videoLink": "https://example.com/v2box-video"
         }
@@ -68,7 +68,7 @@
           "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/v2box.png",
           "description": "A cross-platform V2Ray client.",
           "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
-          "configLink": "v2box://install-sub?url={url}&name=SUBnew",
+          "configLink": "v2box://install-sub",
           "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB",
           "videoLink": "https://example.com/v2box-video"
         }
@@ -112,7 +112,7 @@
           "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/icons/singbox.png",
           "description": "A client that provides a platform for routing traffic securely.",
           "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
-          "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
+          "configLink": "sing-box://import-remote-profile",
           "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.9.6/sing-box_1.9.6_linux_386.deb",
           "videoLink": "https://example.com/sing-box-video"
         }
