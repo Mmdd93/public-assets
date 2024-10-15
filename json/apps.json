@@ -75,5 +75,18 @@
       "Linux": "https://github.com/SagerNet/sing-box/releases/download/v1.9.6/sing-box_1.9.6_linux_386.deb"
     },
     "ShowInMenu": true
+  },
+  {
+    "name": "Hiddify",
+    "urlScheme": "sing-box://import-remote-profile",
+    "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw_",
+    "link": "sing-box://import-remote-profile?url={url}#MattSub",
+    "os": ["Windows", "Android", "Linux"],
+    "downloadLinks": {
+      "Windows": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Portable-x64.zip",
+      "Android": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk",
+      "Linux": "https://github.com/hiddify/hiddify-next"
+    },
+    "ShowInMenu": true
   }
 ]
