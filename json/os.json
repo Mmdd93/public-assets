@@ -16,6 +16,16 @@
           "videoLink": "https://example.com/streisand-video"
         },
         {
+          "name": "contact us",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/telegram.png",
+          "description": "contact us",
+          "faDescription": "تماس با ما",
+          "configLink": "https://t.me/tlgrmv",
+          "downloadLink": "https://t.me/tlgrmv",
+          "videoLink": "https://example.com/streisand-video"
+        },
+        {
           "name": "Shadowrocket",
           "price": "2.99",
           "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/shadowrocket.png",
@@ -51,6 +61,16 @@
           "configLink": "v2rayng://install-config",
           "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.6/v2rayNG_1.9.6_universal.apk",
           "videoLink": "https://example.com/v2rayng-video"
+        },
+         {
+          "name": "contact us",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/telegram.png",
+          "description": "contact us",
+          "faDescription": "تماس با ما",
+          "configLink": "https://t.me/tlgrmv",
+          "downloadLink": "https://t.me/tlgrmv",
+          "videoLink": "https://example.com/streisand-video"
         },
         {
           "name": "Hiddify",
@@ -88,7 +108,17 @@
           "configLink": "v2rayng://install-config",
           "downloadLink": "https://github.com/2dust/v2rayN/releases/download/6.55/v2rayN-With-Core.zip",
           "videoLink": "https://example.com/v2rayn-video"
-        }
+        },
+         {
+          "name": "contact us",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/telegram.png",
+          "description": "contact us",
+          "faDescription": "تماس با ما",
+          "configLink": "https://t.me/tlgrmv",
+          "downloadLink": "https://t.me/tlgrmv",
+          "videoLink": "https://example.com/streisand-video"
+        },
       ]
     },
     {
@@ -105,6 +135,16 @@
           "configLink": "https://example.com/nekoray-config",
           "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-linux64.zip",
           "videoLink": "https://example.com/nekoray-video"
+        },
+         {
+          "name": "contact us",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/telegram.png",
+          "description": "contact us",
+          "faDescription": "تماس با ما",
+          "configLink": "https://t.me/tlgrmv",
+          "downloadLink": "https://t.me/tlgrmv",
+          "videoLink": "https://example.com/streisand-video"
         },
         {
           "name": "SingBox",
