@@ -79,7 +79,7 @@
     "name": "Hiddify",
     "urlScheme": "sing-box://import-remote-profile",
     "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
-    "link": "sing-box://import-remote-profile?url={url}",
+    "link": "sing-box://import-remote-profile?url=",
     "os": ["Windows", "Android", "Linux"],
     "downloadLinks": {
       "Windows": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Portable-x64.zip",
