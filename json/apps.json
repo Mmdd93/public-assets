@@ -17,10 +17,7 @@
     "link": "t.me/tlgrmv2",
     "os": ["Windows", "iOS", "Android", "Linux"],
     "downloadLinks": {
-      "Windows": "https://t.me/tlgrmv2",
-      "Android": "https://t.me/tlgrmv2",
-      "Linux": "https://t.me/tlgrmv2",
-      "iOS": "https://t.me/tlgrmv2"
+      "Windows": ""
     },
     "ShowInMenu": true
   },
