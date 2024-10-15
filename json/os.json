@@ -53,6 +53,16 @@
           "videoLink": "https://example.com/v2rayng-video"
         },
         {
+          "name": "Hiddify",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/hiddify.png",
+          "description": "A V2Ray client for Android devices.",
+          "faDescription": "hiddify یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
+          "configLink": "sing-box://import-remote-profile",
+          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk",
+          "videoLink": "https://example.com/v2rayng-video"
+        },
+        {
           "name": "V2box",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/Mmdd93/public-assets/refs/heads/main/icons/v2box.png",
