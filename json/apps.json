@@ -69,7 +69,7 @@
     "link": "sing-box://import-remote-profile?url={url}#MattSub",
     "os": ["iOS", "Android", "Linux"],
     "downloadLinks": {
-      "iOS": "https://apps.apple.com/om/app/sing-box/id6451272673",
+      "iOS": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
       "Android": "https://github.com/SagerNet/sing-box/releases/download/v1.9.6/SFA-1.9.6-universal.apk",
       "Linux": "https://github.com/SagerNet/sing-box/releases/download/v1.9.6/sing-box_1.9.6_linux_386.deb"
     },
