@@ -11,10 +11,10 @@
     "ShowInMenu": true
   },
   {
-    "name": "contact us",
-    "urlScheme": "https://t.me/tlgrmv2",
+    "name": "contact",
+    "urlScheme": "t.me/tlgrmv2",
     "image": "https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw",
-    "link": "https://t.me/tlgrmv2",
+    "link": "t.me/tlgrmv2",
     "os": ["Windows", "iOS", "Android", "Linux"],
     "downloadLinks": {
       "Windows": "https://t.me/tlgrmv2",
